@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Zenudeen Shehbaz👋. I am a 4th year Mechanical Engineering student at the University of Strathclyde in Glasgow. I have a keen interest in Software Engineering, and have hopes of combining Mechanical and Software engineering to create solutions for problems we face in todays world. I am particularly intrested in Artificial intelligence and Machine Learning and am working on my skill each day to reach my goals! 
 
 <!--
 **mohammedz00/mohammedz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
