@@ -28,13 +28,9 @@ I work across software, data, and cloud — building reliable systems, automatio
 ## 📌 Notable Work
 - ML models for pollutant forecasting using satellite + medical datasets  
 - Simulation + engineering design projects (Shell Eco-Marathon)  
-- AI automation systems for small businesses (Zapier/Make/n8n)
 
----
 
-## 📫 Contact
-**Email:** zenudeenshehbaz@outlook.com  
-**LinkedIn:** add your link here
+
 
 
 
