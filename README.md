@@ -1,36 +1,20 @@
-<h1 align="center">Zenudeen Shehbaz</h1>
-<h3 align="center">Data Engineer • Data Scientist • Cloud Engineer</h3>
+# Zenudeen Shehbaz
 
----
+I build data-driven solutions, cloud infrastructure, and automation that actually scale.
 
-## 👋 About Me
-Software engineer with a first-class Master's in Mechanical & Aerospace Engineering.  
-I work across software, data, and cloud — building reliable systems, automations, and analytical tools.
+## Skills
+Python • SQL • Bash  
+AWS • Terraform • Docker  
+PySpark • TensorFlow • PyTorch • CI/CD
 
----
+## Experience
+Barclays – Software & Data Engineering  
+Airbus – Data Science & Machine Learning  
+DCIM – Project management, Data Analytics
 
-## 🔧 Core Skills
-- Python, SQL, JavaScript  
-- React, Node  
-- AWS, DevOps Foundations  
-- Data Analytics & ML  
-- Simulation & Modelling (MATLAB, SolidWorks, ANSYS)
-
----
-
-## 🧠 Experience
-- **Barclays** – Software Engineer / Risk Analytics  
-- **Airbus** – Modelling & Simulation Engineer  
-- **DCIM Ltd** – Technical Consultant (Power, Cooling, Data Pipelines)
-
----
-
-## 📌 Notable Work
-- ML models for pollutant forecasting using satellite + medical datasets  
-- Simulation + engineering design projects (Shell Eco-Marathon)  
-
-
-
-
-
+## Selected Work
+- Machine learning models for satellite-driven pollutant prediction
+- Multi-Agent reinforcement learning in aerospace context  
+- Automated data pipelines and risk analytics tooling  
+- Engineering simulation and optimisation (FEA, CFD, ABM)  
 
