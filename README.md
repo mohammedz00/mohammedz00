@@ -1,6 +1,40 @@
-Hi, My name is Zenudeen! I am a Modelling & Simulation Engineering intern at Airbus working in the fields of Agent Based Modelling, Artificial Intelligence and Data Science. I have great interest in the development of technology, and am always upskilling to keep up to date on the latest changes in the tech world. I study Aero-Mechanical Engineering at the University of Strathclyde in Glasgow, where I have worked on a multitude of individual and team based projects.
+<h1 align="center">Zenudeen Shehbaz</h1>
+<h3 align="center">Software Engineer • Data Scientist (track) • Mechanical & Aerospace Engineer</h3>
 
-LANGUAGES: Python, JavaScript, SQL, MATLAB, HTML5, CSS3
-MODULES: NumPy, Pandas, Seaborn, Matplotlib, Sci-Kit Learn, TensorFlow 2.0, Apache Spark, Folium, ThreeJS
-SOFTWARE: Solidworks, Tableau, Autodesk Inventor, AnyLogic, Microsoft Office, ANSYS Fluent, Blender, Git
+---
+
+## 👋 About Me
+Software engineer with a first-class Master's in Mechanical & Aerospace Engineering.  
+I work across software, data, and cloud — building reliable systems, automations, and analytical tools.
+
+---
+
+## 🔧 Core Skills
+- Python, SQL, JavaScript  
+- React, Node  
+- AWS, DevOps Foundations  
+- Data Analytics & ML  
+- Simulation & Modelling (MATLAB, SolidWorks, ANSYS)
+
+---
+
+## 🧠 Experience
+- **Barclays** – Software Engineer / Risk Analytics  
+- **Airbus** – Modelling & Simulation Engineer  
+- **DCIM Ltd** – Technical Consultant (Power, Cooling, Data Pipelines)
+
+---
+
+## 📌 Notable Work
+- ML models for pollutant forecasting using satellite + medical datasets  
+- Simulation + engineering design projects (Shell Eco-Marathon)  
+- AI automation systems for small businesses (Zapier/Make/n8n)
+
+---
+
+## 📫 Contact
+**Email:** zenudeenshehbaz@outlook.com  
+**LinkedIn:** add your link here
+
+
 
