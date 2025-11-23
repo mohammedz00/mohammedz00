@@ -1,5 +1,5 @@
 <h1 align="center">Zenudeen Shehbaz</h1>
-<h3 align="center">Software Engineer • Data Scientist (track) • Mechanical & Aerospace Engineer</h3>
+<h3 align="center">Data Engineer • Data Scientist • Cloud Engineer</h3>
 
 ---
 
