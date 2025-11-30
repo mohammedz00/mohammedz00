@@ -8,8 +8,8 @@ AWS • Terraform • Docker
 PySpark • TensorFlow • PyTorch • CI/CD
 
 ## Experience
-Barclays – Data & Risk Analyst
-Airbus – Data Science & Machine Learning  
+Barclays – Data & Risk Analyst\n
+Airbus – Data Science & Machine Learning\n  
 DCIM – Project management, Data Analytics
 
 ## Selected Work
