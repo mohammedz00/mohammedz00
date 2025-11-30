@@ -8,7 +8,7 @@ AWS • Terraform • Docker
 PySpark • TensorFlow • PyTorch • CI/CD
 
 ## Experience
-Barclays – Software & Data Engineering  
+Barclays – Data & Risk Analyst
 Airbus – Data Science & Machine Learning  
 DCIM – Project management, Data Analytics
 
