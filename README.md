@@ -1,4 +1,3 @@
 # Zenudeen Shehbaz
 
-Data Scientist learning cloud
-
+Data and Cloud guy
